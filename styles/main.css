@@ -1,0 +1,200 @@
+/* Jessica Vecchio */ 
+
+@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Codystar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monofett&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barrio&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Puddles&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background-color: white;
+}
+
+body {
+  font-family: "Monaco", "Lucida Console", monospace; 
+}
+
+main{
+	background-color: white;
+}
+
+
+.logo img{
+	height: 5em;
+	width: 5em;
+	float: left;
+}
+
+.title{
+	color: #060354;
+	padding: 1em;
+}
+
+#title2{ /*home*/
+	font-family: 'Monoton', "Monaco", "Lucida Console", monospace; 
+	font-size: 3em; 
+}
+
+.HomeButton{
+ 	font-family: 'Monoton', "Monaco", "Lucida Console", monospace; 
+ 	color: white;
+ 	padding-left: 1em;
+ 	font-size: 2em;
+}
+ 
+.HomeButton:hover{
+ 	color: #e6992e;
+}
+
+#title3{ /*shop*/
+	font-family:'Codystar', "Monaco", "Lucida Console", monospace;
+	font-size: 3em; 
+}
+
+.ShopButton{
+	font-family:'Codystar', "Monaco", "Lucida Console", monospace;
+	color: white; 
+	padding-left: 1em;
+	font-size: 2em;
+}
+
+.ShopButton:hover{
+	color: #e6992e;
+}
+
+#title1{ /*merch*/
+	font-family: 'Megrim', "Monaco", "Lucida Console", monospace;
+	font-size: 3em; 
+}
+
+.MerchButton{
+	font-family: 'Megrim', "Monaco", "Lucida Console", monospace;
+	color: white; 
+	padding-left: 1em;
+	font-size: 2em;
+}
+
+.MerchButton:hover{
+	color: #e6992e;
+}
+
+#title6{ /*contact*/
+	font-family: 'Rubik Puddles', "Monaco", "Lucida Console", monospace;
+	font-size: 3em;
+}
+
+.ContactButton{
+	font-family: 'Rubik Puddles', "Monaco", "Lucida Console", monospace;
+	color: white; 
+	padding-left: 1em;
+	font-size: 2em;
+}
+
+.ContactButton:hover{
+	color: #e6992e;	
+}
+
+.aboutMe_intro{
+	border: 1em solid #060354; 
+ 	color: #060354;
+	padding: 3em; 
+	background-color: white;
+}
+
+.art_images{
+	width: 100%;
+	height: 33%;
+	padding: 2em;
+}
+
+.art_images img{
+ 	width: 33%;
+ 	height: 33;
+ 	float: left;
+ 	padding: 2em;	
+ }
+ 
+ #insta_link {
+ 	text-align: center;
+ 	color: #060354;
+ 	padding-top: 1em;
+ }
+ 
+ #insta_link a{
+ 	color: #060354;
+ }
+ 
+ #insta_link a:hover{
+ 	color: #e6992e;
+ }
+ 
+ #art_imgClick{
+ 	text-align: center;
+ 	padding: 1em;
+ 	color: #060354;
+ }
+ 
+ #art_intro{
+	border: 1em solid #060354; 
+ 	color: #060354;
+	padding: 3em; 
+	background-color: white;
+	text-align: center;
+}
+
+#contact_me{
+	border: 1em solid #060354; 
+ 	color: #060354;
+	padding: 3em; 
+	background-color: white;
+	text-align: center;
+}
+
+#contact_me a:hover {
+	color: #e6992e;
+}
+
+#contact_me a{
+	color: #060354;
+}
+
+.socialMedia_img{
+	text-align: center;
+}
+
+.socialMedia_img img{
+	padding: 1em;
+	width: 4em;
+	height: 4em;
+	float: clear;
+}
+ 
+#construction_link a{
+	color: #060354;
+}
+
+#construction_link a:hover{
+	color: #e6992e;
+}
+
+ footer{
+	text-align: center;
+	padding: 2em;
+	clear: both;
+	font-size: .7em;
+}
+
+footer a{
+	color: #060354;
+}
+
+footer a:hover{
+	color: #e6992e;
+}
+
